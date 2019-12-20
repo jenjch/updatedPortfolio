@@ -1,20 +1,18 @@
-# Homework 2 - Boostrap Portfolio Website Deployed on Github
+# Homework 8 - Updated Portfolio 
 
-The aim of this assignment was to build a portfolio website using bootstrap to create a navbar, a responsive layout, and responsive images (with a set of screenshots for reference). Building off the first homework assignment, I wanted to build a clean website that closely matched the screenshots, but with bootstrap elements.
+The aim of this assignment was to update our portfolio site with links to our deployed github projects. 
 
 ## Composition of Website
 
-The website includes 3 html files, linking to the bootstrap CSS, as well as an additional CSS file. The 3 pages include the index file with "About Me" information, a "Portfolio" page with project images and placeholder buttons to each (currently fake) project, and a "Contact" page for form submission (that currently goes nowhere).
+I revisted my original website layout, which includes 3 html files, linking to the bootstrap CSS, as well as an additional CSS file. The 3 pages are comprised of the index file with "About Me" information, a "Portfolio" page with whimsical project images and updated button links to each project listed, and a "Contact" page for form submission (that still currently goes nowhere).
 
 ## Process
 
-My approach was to match the design specs from the sample screenshots as best as I could, even if that made the website a bit boring. By first building the index html with bootstrap components (using their documentation to take from features I liked), and then working on the non-bootstrap CSS file, I was able to continue to tweak both the html/bootstrap code and style elements to achieve what I wanted. Once the index page and was mostly done, it was much easier to then copy the html structure for the other pages.
+My approach was to make some minor edits to the html and CSS of the website, based on some feedback from the second portfolio assignment. It was much easier to make edits to the website, now that I understand boostrap and layout better. I refrained from making large scale changes to the website layout. Those are still in the works, along with updates and improvements I am planning to make to my linked github projects. 
 
-The process included a lot of perusal of the bootstrap documentation and classes, googling of potentially relevant actualized and modified use of the bootstrap code, and trial and error to made the bootstrap layout do what I wanted, especially since it required a bit of fighting/adjusting of the defaults for the bootstrap elements I used. 
-
-Some examples of bootstrap components that I used include:
-* Navbar nav with "pills" showing the active page a visitor is on.
-* Rows and columns and the grid system for every page.
+Some components I added/edited:
+* Logo image links to github and linkedin.
+* Wrapping 
 * Form features for the Contact page.
 * Buttons for portolio labels/links, and submit for the contact form.
 * Many classes such as ones for fluid images, containers (for the header and nav bar).
@@ -25,10 +23,11 @@ I used the additional external CSS to mostly adjust elements like colors to alig
 
 ## Deployment
 
-Once the website was "complete" (i did a couple of commits as I gradually built out the pages), I then followed steps to update the files in Github and deploy the website for review. 
-https://github.com/jenjch/project2PortfolioSite
-https://jenjch.github.io/project2PortfolioSite
+I updated the files in Github and deploy the website for review. 
+https://github.com/jenjch/updatedPortfolio
+
+https://jenjch.github.io/updatedPortfolio
 
 ## Acceptance Criteria
 
-I hope that I have included all requested specs. Feedback on whether I followed good practices, and whether parts of my code were redundant or imprecise would be helpful.  
+I have added project links to meet the requirements of the assignment. I will still continue to update my portfolio website and projects throughout the bootcamp. 
