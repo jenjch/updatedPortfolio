@@ -99,7 +99,7 @@ h2 {
 
 .button-container {
     margin-top: 20px;
-    margin: 20px;
+    /* margin: 20px; */
 }
 
 button[type=button] {
@@ -132,3 +132,15 @@ button[type=submit]:hover{
         padding: 0px 20px;
     }    
 }
+
+@media screen and (min-width: 576px) {
+    nav {
+       justify-content: center;
+    }
+} 
+
+@media screen and (min-width: 992px) {
+    nav {
+       justify-content: flex-end;
+    }  
+} 
