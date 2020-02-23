@@ -15,11 +15,13 @@ body {
 
 .resume {
     color:teal;
+    position: relative;
+    bottom: 0.5px;
 }
 
 .github {
     position: relative;
-    bottom: 1px;
+    bottom: 2px;
 }
 
 .linkedin {
